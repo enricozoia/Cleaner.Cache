@@ -4,7 +4,7 @@ The first open-source program that help you to clean the temporary file (cache) 
 <br>
 •It's very simple: you select programs you want to clean (also more than one) and press CLEAN!<br>
  In a few second the cache will be empty and your pc faster!<br>
- ![xxx](https://user-images.githubusercontent.com/86716764/131656424-87b2585c-276a-46a2-b876-d545857847da.png)
+ ![image](https://user-images.githubusercontent.com/86716764/131656424-87b2585c-276a-46a2-b876-d545857847da.png)
  <br>
 •ATTENTION! The program works correctly only if you haven't edited the cache path.<br>
  If you've edited it you must change the path in the code.<br>
@@ -20,3 +20,5 @@ The first open-source program that help you to clean the temporary file (cache) 
 •If you don't see an app you want to clean, tell me it here: https://bit.ly/2WDBxb2<br>
 <br>
 •The program is frequently update so, sometimes, ceck the github page to download a new version with new features and programs!<br>
+
+## To download the program click [HERE](https://github.com/enricozoia/cleaner.cache/releases)
