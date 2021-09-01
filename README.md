@@ -1,4 +1,4 @@
-## cleaner.cache
+## Cleaner.Cache
 👋 Hey! Welcome to Cleaner.cache!
 The first open-source program that help you to clean the temporary file (cache) of all program.<br>
 <br>
