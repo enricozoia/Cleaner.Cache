@@ -18,3 +18,5 @@ The first open-source program that help you to clean the temporary file (cache) 
  It's always recommended to make a backup of the data of the programs before cleaning.<br>
  <br>
 •If you don't see an app you want to clean, tell me it here: https://bit.ly/2WDBxb2<br>
+<br>
+•The program is frequently update so, sometimes, ceck the github page to download a new version with new features and programs!<br>
