@@ -10,7 +10,7 @@ The first **open-source** program that help you to clean the **temporary file (c
  If you've edited it you must change the path in the code.<br>
  If you haven't installed the selected program it do error<br>
  <br>
-•👨‍💻The program is developed with **AutoHotKey**, *you can download the code [HERE]*(https://github.com/enricozoia/Cleaner.Cache/releases/download/v1.0/CleanerCache_CODE.zip).<br>
+•👨‍💻The program is developed with **AutoHotKey**, *you can download the code* [HERE](https://github.com/enricozoia/Cleaner.Cache/releases/download/v1.0/CleanerCache_CODE.zip).<br>
  To see and edit the code you must have AutoHotKey installed on your pc.<br>
  <br>
 •❗️Some programs may not work correctly after the cache cleaning or they require log-in.<br>
